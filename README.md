@@ -1,3 +1,3 @@
 # spring-boot-cassandra
 
-This application pulls and update the employee dates from cassandra DB.
+This application pulls, create, update and deletes the employee data from cassandra DB.
